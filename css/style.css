@@ -1,10 +1,32 @@
-body{
-	background: slategray;
-	color: orange;
-	
+body {
+/* 	background-image: url("https://i.ytimg.com/vi/3Knv6D6Thi0/maxresdefault.jpg"); */
+/* 	background-size: cover; */
+/* 	background-repeat: no-repeat; */
+	font-family: 'Faustina', serif;
 }
 
-.row {
+div#header {
 	margin-top: 100px;
 }
 
+h1 {
+	font-family: 'Faustina', serif;
+	text-transform: uppercase;
+}
+
+h5 {
+	transform-text: uppercase;
+	font-style: italic;
+	margin-left: 70px;
+	margin-bottom: 30px;
+}
+
+#results {
+	margin-top: 15px;
+}
+
+#searchTerms {
+	margin-bottom: 10px;
+}
+
+.bt
